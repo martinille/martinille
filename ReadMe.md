@@ -1,4 +1,4 @@
-## Websites creator, PHP/SQL/JS programmer.
+## Fullstack web programmer.
 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/martin.ille) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/104237) ![Page Views](https://komarev.com/ghpvc/?username=martinille)
 
